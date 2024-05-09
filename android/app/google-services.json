@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186580906013",
+    "project_id": "signinattempt2",
+    "storage_bucket": "signinattempt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186580906013:android:a8362626034cc1a756d6f4",
+        "android_client_info": {
+          "package_name": "com.souvikbiswas.flutterfire_samples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7yJGNIsR6UOHBLLhErqJOs6R7tTkmFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
